@@ -1,6 +1,6 @@
 alert('Welcome to the secret number game!');
 
-let secretNumber = 13;
+let secretNumber = 23;
 
 let enteredNumber;
 
